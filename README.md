@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👌  My name is Yusuf. I'm 20 years old. I'm living in Turkey.
 - 🔭 I'm studying at Necmettin Erbakan University
-- ✌  I'm studying computer engineering. My second year at this university
-- 🌱 I’m currently learning Python(django,boostrap,machine learning)
+- ✌  I'm studying computer engineering. My third year at this university
+- 🌱 I’m currently learning python(OpenCV)
 - 📫 How to reach me: [instagram](https://www.instagram.com/cakir_yusuff/?hl=tr)
 - 😄 E-mail: cakir_yusuff@outlook.com
