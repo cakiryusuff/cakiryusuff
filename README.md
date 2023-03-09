@@ -3,5 +3,5 @@
 - 🔭 I'm studying at Necmettin Erbakan University
 - ✌  I'm studying computer engineering. My third year at this university
 - 🌱 I’m currently learning python(OpenCV)
-- 📫 How to reach me: [instagram](https://www.instagram.com/cakir_yusuff/?hl=tr)
+- 📫 How to reach me: [instagram](https://www.instagram.com/sworddarson/?hl=tr)
 - 😄 E-mail: cakir_yusuff@outlook.com
