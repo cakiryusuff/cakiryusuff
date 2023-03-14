@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👌  My name is Yusuf. I'm 20 years old. I'm living in Turkey.
+- 👌  My name is Yusuf. I'm 21 years old. I'm living in Turkey.
 - 🔭 I'm studying at Necmettin Erbakan University
 - ✌  I'm studying computer engineering. My third year at this university
 - 🌱 I’m currently learning python, C++, OpenCV
