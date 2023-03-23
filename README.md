@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Vision Engineer
 ------------------------
 
-I am 3rd year student at Necmettin Erbakan University Ahmet Cengiz Engineering Faculty Computer Engineering. I am interested in OpenCV, Python and C++, I am trying to specialize in Computer Vision. I am open to learning, I have team spirit, I am constantly improving myself day by day. Kind regards.
+I am 3rd year student at Necmettin Erbakan University Ahmet Cengiz Engineering Faculty Computer Engineering. I am trying to specialize in Computer Vision. I am open to learning, I have team spirit, I am constantly improving myself day by day. Kind regards.
 
 * ✉️  You can contact me at [cakir\_yusuff@outlook.com](mailto:cakir_yusuff@outlook.com)
 * 🧠  I'm learning C++, Python, OpenCV
