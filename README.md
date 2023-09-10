@@ -9,9 +9,6 @@ I am 4rd year student at Necmettin Erbakan University Computer Engineering. I am
 * ✉️  You can contact me at [cakir\_yusuff@outlook.com](mailto:cakir_yusuff@outlook.com)
 * 🧠  I'm learning C++, Python, OpenCV
 
-<a href="https://www.github.com/cakiryusuff" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/cakiryusuff?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
