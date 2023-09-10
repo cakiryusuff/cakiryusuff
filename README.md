@@ -4,7 +4,7 @@ Hi 👋 My name is Yusuf Çakır
 Computer Vision Engineer
 ------------------------
 
-I am 3rd year student at Necmettin Erbakan University Computer Engineering. I am trying to specialize in Computer Vision. I am open to learning, I am constantly improving myself day by day. Kind regards.
+I am 4rd year student at Necmettin Erbakan University Computer Engineering. I am trying to specialize in Computer Vision. I am open to learning, I am constantly improving myself day by day. Kind regards.
 
 * ✉️  You can contact me at [cakir\_yusuff@outlook.com](mailto:cakir_yusuff@outlook.com)
 * 🧠  I'm learning C++, Python, OpenCV
