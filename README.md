@@ -1,7 +1,7 @@
 Hi 👋 My name is Yusuf Çakır
 =============================================================================================================================
 
-Junior Artificial Intelligence Engineer
+Junior AI/ML Engineer
 ------------------------
 
 I am a recent graduate from Necmettin Erbakan University with a degree in Computer Engineering. I am trying to specialize in Computer Vision, deep learning, machine learning. I am open to learning, I am constantly improving myself day by day. Kind regards.
