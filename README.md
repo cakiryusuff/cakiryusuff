@@ -22,6 +22,8 @@ I am a recent graduate from Necmettin Erbakan University with a degree in Comput
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="google" width="80" height="80"/> </a>
+  
 </p>
 
 
