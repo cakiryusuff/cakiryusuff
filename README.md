@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a recent graduate from Necmettin Erbakan University with a degree in Computer Engineering. I am trying to specialize in Computer Vision, deep learning, machine learning. I am open to learning, I am constantly improving myself day by day. Kind regards.<br>
-🌱 I’m currently learning Pytorch, Deep Learning, Machine Learning<br>💬 You can contact me at cakir_yusuff@outlook.com<br>⚡ Also my videos youtube.com/@cakiryusuff
+Highly motivated Artificial Intelligence Engineer and recent Computer Engineering graduate from Necmettin Erbakan University, specializing in machine learning, deep learning, and computer vision. Continuously improving my skills and open to new challenges and learning opportunities in the field of artificial intelligence.<br>
+💬 You can contact me at cakir_yusuff@outlook.com<br>⚡ Also my videos youtube.com/@cakiryusuff
 
 
 ## 🌐 Socials:
